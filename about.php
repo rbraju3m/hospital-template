@@ -43,6 +43,24 @@
    </head>
    <body>
       <?php include 'layouts/header.php'; ?>
+      <!-- Breadcrumbs -->
+      <div class="breadcrumbs overlay">
+         <div class="container">
+            <div class="bread-inner">
+            <div class="row">
+               <div class="col-12">
+                  <h2>About Us</h2>
+                  <ul class="bread-list">
+                  <li><a href="index.php">Home</a></li>
+                  <li><i class="icofont-simple-right"></i></li>
+                  <li class="active">About Us</li>
+                  </ul>
+               </div>
+            </div>
+            </div>
+         </div>
+      </div>
+      <!-- End Breadcrumbs -->
       <!-- Start About Area -->
       <section class="about-area section">
          <div class="container-fluid p-0">
@@ -95,7 +113,7 @@
       <!-- Start Our Vision Area -->
       <section class="our-vision-area ptb-100 pt-0">
          <div class="container">
-            <div class="row">
+            <div class="row" style="margin-top:50px;">
                <div class="col-lg-4 col-md-6 col-12">
                   <div class="single-vision-box">
                      <div class="icon">
@@ -140,7 +158,7 @@
       </section>
       <!-- End Our Vision Area -->
       <!-- Start Our Mission Area -->
-      <section class="our-mission-area ptb-100 pt-0">
+      <section class="our-mission-area ptb-100 pb-5">
          <div class="container-fluid p-0">
             <div class="row m-0">
                <div class="col-lg-6 col-md-12 p-0">

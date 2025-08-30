@@ -2,19 +2,6 @@
     width: 20% !important;
 }
 
-/* Add space below the portfolio slider dots */
-.package-slider .owl-dots {
-    margin-top: 30px !important;
-    margin-bottom: 20px !important;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.package-slider .owl-dot {
-    margin: 0 6px !important;
-}
-
 /* Tablet view: 2 per row */
 @media (max-width: 992px) {
     .width-20 {
@@ -28,6 +15,23 @@
         width: 50% !important;
     }
 }
+
+/* Add space below the package slider dots */
+.package-slider .owl-dots {
+    margin-top: 30px !important;
+    margin-bottom: 20px !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.package-slider .owl-dot {
+    margin: 0 6px !important;
+}
+
+/* Add space below the package slider dots */
+
+/* service card after slider area  */
 
 .cta-card {
     min-height: 106px;
@@ -99,6 +103,10 @@
     color: #fff;
 }
 
+/* service card after slider area  */
+
+/* why choose service card */
+
 .spec-card {
     border: 1px solid #e8eef6;
     border-radius: 18px;
@@ -148,7 +156,10 @@
     overflow-wrap: anywhere;
 }
 
+/* why choose service card */
+
 /* Health Check Packages */
+
 /* CARD */
 .pkg-card {
     position: relative;
@@ -242,7 +253,10 @@
     width: 100%;
 }
 
+/* Health Check Packages */
+
 /* Service Highlight Section */
+
 .service-highlight-section {
     background: #f8fbfd;
     border-radius: 18px;
@@ -289,6 +303,8 @@
         text-align: center;
     }
 }
+
+/* Service Highlight Section */
 
 /* client slider area */
 .clients-slider .single-clients img {

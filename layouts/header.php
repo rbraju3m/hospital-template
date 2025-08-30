@@ -110,23 +110,29 @@
                                     <li>
                                         <a href="specialities.php">Specialities <i class="icofont-rounded-down"></i></a>
                                         <ul class="dropdown">
-                                            <li><a href="specialities.php">Doctor</a></li>
+                                            <li><a href="specialities-details.php">Chest Surgery</a></li>
+                                            <li><a href="specialities-details.php">Diabetes & Endocrinology</a></li>
+                                            <li><a href="specialities-details.php">Family Physician</a></li>
+                                            <li><a href="specialities-details.php">General & Laparoscopic Surgery</a></li>
+                                            <li><a href="specialities-details.php">Medicine & Gastroenterology</a></li>
+                                            <li><a href="specialities-details.php">Oncology</a></li>
+                                            <li><a href="specialities-details.php">Paediatrics</a></li>
+                                            <li><a href="specialities-details.php">Psychiatry</a></li>
+                                            <li><a href="specialities-details.php">Rheumatology</a></li>
+                                            <li><a href="specialities-details.php">Urology</a></li>
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="#">Health Checkup</a>
+                                        <a href="health-checkup.php">Health Checkup</a>
                                     </li>
                                     <li>
-                                        <a href="#">Online Report</a>
+                                        <a href="patient-stories.php">Patient Stories</a>
                                     </li>
                                     <li>
-                                        <a href="#">Patient Stories</a>
+                                        <a href="careers.php">Careers</a>
                                     </li>
                                     <li>
-                                        <a href="#">Careers</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Send Query</a>
+                                        <a href="send-query.php">Send Query</a>
                                     </li>
                                     <li>
                                         <a href="http://drapp.bigbang.com.bd">App</a>
