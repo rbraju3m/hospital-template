@@ -143,7 +143,7 @@
                 <div class="row">
                     <div class="width-20">
                         <!-- Card -->
-                        <a href="#" class="text-decoration-none">
+                        <a href="vaccination.php" class="text-decoration-none">
                             <div class="cta-card d-flex align-items-center gap-2 justify-content-between">
                             <h3 class="cta-title mb-0">Vaccination</h3>
                             <div class="icon-circle">
@@ -155,7 +155,7 @@
                     </div>
                     <div class="width-20">
                         <!-- Card -->
-                        <a href="#" class="text-decoration-none">
+                        <a href="pharmacy.php" class="text-decoration-none">
                             <div class="cta-card d-flex align-items-center gap-2 justify-content-between">
                             <h3 class="cta-title mb-0">Pharmacy 42/7</h3>
                             <div class="icon-circle">
@@ -167,7 +167,7 @@
                     </div>
                     <div class="width-20">
                         <!-- Card -->
-                        <a href="#" class="text-decoration-none">
+                        <a href="specialities.php" class="text-decoration-none">
                             <div class="cta-card d-flex align-items-center gap-2 justify-content-between">
                             <h3 class="cta-title mb-0">Find a Doctor</h3>
                             <div class="icon-circle">
@@ -179,7 +179,7 @@
                     </div>
                     <div class="width-20">
                         <!-- Card -->
-                        <a href="#" class="text-decoration-none">
+                        <a href="appointment-lab-test.php" class="text-decoration-none">
                             <div class="cta-card d-flex align-items-center gap-2 justify-content-between">
                             <h3 class="cta-title mb-0">Appointment & Lab Test</h3>
                             <div class="icon-circle">
@@ -191,7 +191,7 @@
                     </div>
                     <div class="width-20">
                         <!-- Card -->
-                        <a href="#" class="text-decoration-none">
+                        <a href="patient-visitors-guide.php" class="text-decoration-none">
                             <div class="cta-card d-flex align-items-center gap-2 justify-content-between">
                             <h3 class="cta-title mb-0">Patient & Visitors Guide</h3>
                             <div class="icon-circle">
@@ -228,7 +228,7 @@
                     <div class="row">
                         <div class="col-lg-3 col-md-6 col-6">
                             <!-- Start Single Service -->
-                            <a href="#" class="text-decoration-none">
+                            <a href="specialities-details.php" class="text-decoration-none">
                                 <div class="spec-card">
                                     <div class="spec-icon">
                                         <i class="icofont-ambulance-cross"></i>
@@ -240,7 +240,7 @@
                         </div>
                         <div class="col-lg-3 col-md-6 col-6">
                             <!-- Start Single Service -->
-                            <a href="#" class="text-decoration-none">
+                            <a href="specialities-details.php" class="text-decoration-none">
                                 <div class="spec-card">
                                     <div class="spec-icon">
                                         <i class="icofont-blood-drop"></i>
@@ -252,7 +252,7 @@
                         </div>
                         <div class="col-lg-3 col-md-6 col-6">
                             <!-- Start Single Service -->
-                            <a href="#" class="text-decoration-none">
+                            <a href="specialities-details.php" class="text-decoration-none">
                                 <div class="spec-card">
                                     <div class="spec-icon">
                                         <i class="icofont-heart-beat"></i>
@@ -264,7 +264,7 @@
                         </div>
                         <div class="col-lg-3 col-md-6 col-6">
                             <!-- Start Single Service -->
-                            <a href="#" class="text-decoration-none">
+                            <a href="specialities-details.php" class="text-decoration-none">
                                 <div class="spec-card">
                                     <div class="spec-icon">
                                         <i class="icofont-blood-drop" aria-hidden="true"></i>
@@ -276,7 +276,7 @@
                         </div>
                         <div class="col-lg-3 col-md-6 col-6">
                             <!-- Start Single Service -->
-                            <a href="#" class="text-decoration-none">
+                            <a href="specialities-details.php" class="text-decoration-none">
                                 <div class="spec-card">
                                     <div class="spec-icon">
                                         <i class="icofont-hospital"></i>
@@ -288,7 +288,7 @@
                         </div>
                         <div class="col-lg-3 col-md-6 col-6">
                             <!-- Start Single Service -->
-                            <a href="#" class="text-decoration-none">
+                            <a href="specialities-details.php" class="text-decoration-none">
                                 <div class="spec-card">
                                     <div class="spec-icon">
                                         <i class="icofont icofont-tooth"></i>
@@ -300,7 +300,7 @@
                         </div>
                         <div class="col-lg-3 col-md-6 col-6">
                             <!-- Start Single Service -->
-                            <a href="#" class="text-decoration-none">
+                            <a href="specialities-details.php" class="text-decoration-none">
                                 <div class="spec-card">
                                     <div class="spec-icon">
                                         <i class="icofont-baby"></i>
@@ -312,7 +312,7 @@
                         </div>
                         <div class="col-lg-3 col-md-6 col-6">
                             <!-- Start Single Service -->
-                            <a href="#" class="text-decoration-none">
+                            <a href="specialities-details.php" class="text-decoration-none">
                                 <div class="spec-card">
                                     <div class="spec-icon">
                                         <i class="icofont-circuit"></i>
@@ -330,14 +330,14 @@
                             <img class="pkg-img" src="img/haj_img.png" alt="#">
                             <div class="pkg-content">
                                 <h3 class="pkg-title">Hajj Package</h3>
-                                <a class="pkg-link stretched-link" href="#">See Package</a>
+                                <a class="pkg-link stretched-link" href="specialities-details.php">See Package</a>
                             </div>
                         </div>
                         <div class="pkg-card" style="margin-bottom: 10px;height:160px;">
                             <img class="pkg-img" src="img/haj_img.png" alt="#">
                             <div class="pkg-content">
                                 <h3 class="pkg-title">Gemco</h3>
-                                <a class="pkg-link stretched-link" href="#">See Package</a>
+                                <a class="pkg-link stretched-link" href="specialities-details.php">See Package</a>
                             </div>
                         </div>
                     </div>
@@ -365,7 +365,7 @@
                         Our ambulance service is equipped with the latest medical technology and staffed by trained professionals
                         to provide the best care possible during transport.
                     </p>
-                    <a href="ambulance-details.html" class="btn mt-3">View Details</a>
+                    <a href="ambulance.php" class="btn mt-3 text-light">View Details</a>
                 </div>
             </div>
         </div>
@@ -389,7 +389,7 @@
                         Our vaccination service is equipped with the latest medical technology and staffed by trained professionals
                         to provide the best care possible during the vaccination process.
                     </p>
-                    <a href="ambulance-details.html" class="btn mt-3">View Details</a>
+                    <a href="vaccination.php" class="btn mt-3 text-light">View Details</a>
                 </div>
                 <img class="service-highlight-img" src="img/vaccine.webp" alt="Vaccination Service">
             </div>
@@ -415,7 +415,7 @@
                         Our sample collection service is equipped with the latest medical technology and staffed by trained
                         professionals to provide the best care possible during the sample collection process.
                     </p>
-                    <a href="ambulance-details.html" class="btn mt-3">View Details</a>
+                    <a href="sample.php" class="btn mt-3 text-light">View Details</a>
                 </div>
             </div>
         </div>
@@ -535,9 +535,9 @@
                                 <div class="news-content">
                                     <div class="date">22 Aug, 2020</div>
                                     <h2>
-                                    <a href="blog-single.html">We have annnocuced our new product.</a>
+                                    <a href="news-details.php">We have annnocuced our new product.</a>
                                     </h2>
-                                    <a href="blog-single.html">Read More</a>
+                                    <a href="news-details.php">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -551,9 +551,9 @@
                                 <div class="news-content">
                                     <div class="date">15 Jul, 2020</div>
                                     <h2>
-                                    <a href="blog-single.html">Top five way for solving teeth problems.</a>
+                                    <a href="news-details.php">Top five way for solving teeth problems.</a>
                                     </h2>
-                                    <a href="blog-single.html">Read More</a>
+                                    <a href="news-details.php">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -567,9 +567,9 @@
                                 <div class="news-content">
                                     <div class="date">05 Jan, 2020</div>
                                     <h2>
-                                    <a href="blog-single.html">We provide highly business soliutions.</a>
+                                    <a href="news-details.php">We provide highly business soliutions.</a>
                                     </h2>
-                                    <a href="blog-single.html">Read More</a>
+                                    <a href="news-details.php">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -583,9 +583,9 @@
                                 <div class="news-content">
                                     <div class="date">05 Jan, 2020</div>
                                     <h2>
-                                    <a href="blog-single.html">We provide highly business soliutions.</a>
+                                    <a href="news-details.php">We provide highly business soliutions.</a>
                                     </h2>
-                                    <a href="blog-single.html">Read More</a>
+                                    <a href="news-details.php">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -599,15 +599,15 @@
                                 <div class="news-content">
                                     <div class="date">05 Jan, 2020</div>
                                     <h2>
-                                    <a href="blog-single.html">We provide highly business soliutions.</a>
+                                    <a href="news-details.php">We provide highly business soliutions.</a>
                                     </h2>
-                                    <a href="blog-single.html">Read More</a>
+                                    <a href="news-details.php">Read More</a>
                                 </div>
                             </div>
                         </div>
                         <!-- End Single Blog -->
                     </div>
-                    <a href="" class="btn text-light float-end">View All</a>
+                    <a href="news.php" class="btn text-light float-end">View All</a>
                 </div>
             </div>
         </div>
@@ -638,9 +638,9 @@
                             <div class="news-content">
                                 <div class="date">22 Aug, 2020</div>
                                 <h2>
-                                <a href="blog-single.html">We have annnocuced our new product.</a>
+                                <a href="blog-details.php">We have annnocuced our new product.</a>
                                 </h2>
-                                <a href="blog-single.html">Read More</a>
+                                <a href="blog-details.php">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -654,9 +654,9 @@
                             <div class="news-content">
                                 <div class="date">15 Jul, 2020</div>
                                 <h2>
-                                <a href="blog-single.html">Top five way for solving teeth problems.</a>
+                                <a href="blog-details.php">Top five way for solving teeth problems.</a>
                                 </h2>
-                                <a href="blog-single.html">Read More</a>
+                                <a href="blog-details.php">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -670,9 +670,9 @@
                             <div class="news-content">
                                 <div class="date">05 Jan, 2020</div>
                                 <h2>
-                                <a href="blog-single.html">We provide highly business soliutions.</a>
+                                <a href="blog-details.php">We provide highly business soliutions.</a>
                                 </h2>
-                                <a href="blog-single.html">Read More</a>
+                                <a href="blog-details.php">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -686,9 +686,9 @@
                             <div class="news-content">
                                 <div class="date">05 Jan, 2020</div>
                                 <h2>
-                                <a href="blog-single.html">We provide highly business soliutions.</a>
+                                <a href="blog-details.php">We provide highly business soliutions.</a>
                                 </h2>
-                                <a href="blog-single.html">Read More</a>
+                                <a href="blog-details.php">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -702,15 +702,15 @@
                             <div class="news-content">
                                 <div class="date">05 Jan, 2020</div>
                                 <h2>
-                                <a href="blog-single.html">We provide highly business soliutions.</a>
+                                <a href="blog-details.php">We provide highly business soliutions.</a>
                                 </h2>
-                                <a href="blog-single.html">Read More</a>
+                                <a href="blog-details.php">Read More</a>
                             </div>
                         </div>
                     </div>
                     <!-- End Single Blog -->
                     </div>
-                    <a href="" class="btn text-light float-end">View All</a>
+                    <a href="blog.php" class="btn text-light float-end">View All</a>
                 </div>
             </div>
         </div>

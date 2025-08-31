@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-   <head>
+    <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Query | Uttara Crescent Hospital</title>
+        <title>Ambulance | Uttara Crescent Hospital</title>
         <!-- Favicon -->
         <link rel="icon" href="img/logo.png" />
         <!-- Google Fonts -->
@@ -36,24 +36,23 @@
         <!-- Color CSS -->
         <link rel="stylesheet" href="css/color/color3.css" />
         <link rel="stylesheet" id="colors" />
-   </head>
-   <body>
+    </head>
+    <body>
         <?php include 'layouts/header.php'; ?>
-        
         <!-- Breadcrumbs -->
         <div class="breadcrumbs overlay">
             <div class="container">
                 <div class="bread-inner">
-                    <div class="row">
-                        <div class="col-12">
-                            <h2>Submit Your Query</h2>
-                            <ul class="bread-list">
+                <div class="row">
+                    <div class="col-12">
+                        <h2>Ambulance</h2>
+                        <ul class="bread-list">
                             <li><a href="index.php">Home</a></li>
                             <li><i class="icofont-simple-right"></i></li>
-                            <li class="active">Query</li>
-                            </ul>
-                        </div>
+                            <li class="active">Ambulance</li>
+                        </ul>
                     </div>
+                </div>
                 </div>
             </div>
         </div>
@@ -64,9 +63,18 @@
             <div class="container">
                 <div class="inner">
                     <div class="row">
-                        <div class="col-lg-12">
+                        <div class="col-lg-6" style="padding: 45px 55px;">
+                            <img class="service-highlight-img" src="img/ambulance.avif" alt="Ambulance Service">
+                            <div class="service-highlight-content">
+                                <p>
+                                    Our ambulance service is equipped with the latest medical technology and staffed by trained professionals
+                                    to provide the best care possible during emergencies.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
                             <div class="contact-us-form">
-                                <h2>Submit Your Query</h2>
+                                <h2>Submit Your Application</h2>
                                 <p>
                                     If you have any questions please feel free to contact with us.
                                 </p>
@@ -137,7 +145,6 @@
             </div>
         </section>
         <!--/ End Contact Us -->
-
         <?php include 'layouts/footer.php'; ?>
-   </body>
+    </body>
 </html>
