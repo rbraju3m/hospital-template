@@ -56,7 +56,7 @@
 
     <!-- Slider Area -->
     <section class="slider">
-        <div class="hero-slider">
+    <div class="hero-slider wow fadeInDown" data-wow-duration="1s">
             <!-- Start Single Slider -->
             <div class="single-slider" style="background-image: url('img/slider2.jpg')">
                 <div class="container">
@@ -138,7 +138,7 @@
 
     <!-- Start Schedule Area -->
     <section class="schedule">
-        <div class="container">
+    <div class="container wow fadeInUp" data-wow-delay="0.2s">
             <div class="schedule-inner">
                 <div class="row">
                     <div class="width-20">
@@ -209,7 +209,7 @@
 
     <!-- Start service -->
     <section class="services section">
-        <div class="container">
+    <div class="container wow fadeInLeft" data-wow-delay="0.3s">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title">
@@ -349,7 +349,7 @@
 
     <!-- Start Ambulance Service -->
     <section class="portfolio section service-highlight-section">
-        <div class="container">
+    <div class="container wow fadeInRight" data-wow-delay="0.4s">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title">
@@ -374,7 +374,7 @@
 
     <!-- Start Vaccination Service -->
     <section class="portfolio section service-highlight-section">
-        <div class="container">
+    <div class="container wow fadeInLeft" data-wow-delay="0.4s">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title">
@@ -399,7 +399,7 @@
 
     <!-- Start Sample Collection Service -->
     <section class="portfolio section service-highlight-section">
-        <div class="container">
+    <div class="container wow fadeInRight" data-wow-delay="0.4s">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title">
@@ -424,7 +424,7 @@
 
     <!-- Start Health Checkup Packages -->
     <section class="portfolio section">
-        <div class="container">
+    <div class="container wow fadeInUp" data-wow-delay="0.2s">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title">
@@ -513,7 +513,7 @@
 
     <!-- Start Patient & Their Stories Area -->
     <section class="blog section" id="blog">
-        <div class="container">
+    <div class="container wow fadeInLeft" data-wow-delay="0.3s">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title">
@@ -616,7 +616,7 @@
 
     <!-- Start News & Media Area -->
     <section class="blog section" id="blog">
-        <div class="container">
+    <div class="container wow fadeInRight" data-wow-delay="0.3s">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title">
@@ -719,7 +719,7 @@
 
     <!-- Start Health Checkup Packages -->
     <section class="portfolio section mb-5">
-        <div class="container">
+    <div class="container wow fadeInUp" data-wow-delay="0.2s">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title">
@@ -766,6 +766,12 @@
 
 
     <?php include 'layouts/footer.php'; ?>
+        <!-- Initialize WOW.js -->
+        <script>
+            if (typeof WOW !== 'undefined') {
+                new WOW().init();
+            }
+        </script>
 </body>
 
 </html>

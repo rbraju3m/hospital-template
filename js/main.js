@@ -206,7 +206,7 @@ Version:	1.1
       dots: false,
       responsive: {
         300: {
-          items: 1,
+          items: 3,
         },
         480: {
           items: 2,
