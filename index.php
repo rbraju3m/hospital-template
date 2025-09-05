@@ -348,7 +348,7 @@
     <!--/ End service -->
 
     <!-- Start Ambulance Service -->
-    <section class="portfolio section service-highlight-section">
+    <section class="portfolio section service-highlight-section section-alt">
     <div class="container wow fadeInRight" data-wow-delay="0.5s">
             <div class="row">
                 <div class="col-lg-12">
@@ -398,7 +398,7 @@
     <!--/ End Vaccination Service -->
 
     <!-- Start Sample Collection Service -->
-    <section class="portfolio section service-highlight-section">
+    <section class="portfolio section service-highlight-section section-alt">
     <div class="container wow fadeInRight" data-wow-delay="0.6s">
             <div class="row">
                 <div class="col-lg-12">
@@ -512,7 +512,7 @@
     <!--/ End Health Checkup Packages -->
 
     <!-- Start Patient & Their Stories Area -->
-    <section class="blog section" id="blog">
+    <section class="blog section section-alt" id="blog">
         <div class="container wow fadeInLeft" data-wow-delay="0.3s">
             <div class="row">
                 <div class="col-lg-12">
@@ -718,7 +718,7 @@
     <!-- End News & Media Area -->
 
     <!-- Start Health Checkup Packages -->
-    <section class="portfolio section mb-5">
+    <section class="portfolio section mb-5 section-alt">
     <div class="container wow fadeInUp" data-wow-delay="0.2s">
             <div class="row">
                 <div class="col-lg-12">

@@ -22,6 +22,11 @@
     }
 }
 
+/* for zig zag style background color */
+.section-alt {
+    background: #f8fbfd;
+}
+
 /* Add space below the package slider dots */
 .package-slider .owl-dots {
     margin-top: 30px !important;
@@ -246,9 +251,9 @@
 /* Service Highlight Section */
 
 .service-highlight-section {
-    background: #f8fbfd;
+    /* background: #f8fbfd; */
     border-radius: 18px;
-    margin-bottom: 40px;
+    /* margin-bottom: 40px; */
     padding: 40px 0 30px 0;
 }
 
