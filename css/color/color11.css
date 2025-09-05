@@ -2,24 +2,24 @@
 .cta-title,
 .spec-title,
 .spec-icon i {
-  color: #f82f56 !important;
+  color: #badc58 !important;
 }
 
 .icon-circle {
-  background: #f82f56 !important;
+  background: #badc58 !important;
 }
 
 .pkg-link {
-  color: #f82f56 !important;
+  color: #badc58 !important;
 }
 
 .cta-card:hover {
-  background: #f82f56 !important;
-  box-shadow: 0 10px 20px #f82f56;
+  background: #badc58 !important;
+  box-shadow: 0 10px 20px #badc58;
 }
 
 .cta-card:hover .icon-circle i {
-  color: #f82f56 !important;
+  color: #badc58 !important;
 }
 
 .cta-card:hover .icon-circle {
@@ -27,7 +27,7 @@
 }
 
 .cta-card:hover .icon-circle i {
-  color: #f82f56 !important;
+  color: #badc58 !important;
 }
 
 .cta-card:hover .cta-title {
@@ -35,11 +35,10 @@
 }
 
 .spec-card:hover {
-  background: #f82f56 !important;
+  background: #badc58 !important;
 }
 
 /* custom css end */
-
 .doctor-details-item .doctor-details-contact .basic-info li i,
 .doctor-details-item .doctor-details-biography h3,
 .header .top-link li:hover a,
@@ -90,9 +89,8 @@
 .departments .department-tab .nav .list-group-item.active i,
 .header .nav li .dropdown li.active a,
 .rtl-version .option-box li {
-  color: #f82f56;
+  color: #badc58;
 }
-
 .accordion li a.active,
 #scrollUp,
 .team .t-icon a,
@@ -164,22 +162,18 @@
 .mail-seccess .success-inner .btn,
 .rtl-version .option-box li.active,
 .rtl-version .option-box li:hover {
-  background: #f82f56;
+  background: #badc58;
 }
-
 .accordion a:hover {
-  background: #f82f56 !important;
+  background: #badc58 !important;
 }
-
 .Feautes .single-features::before {
-  border-bottom-color: #f82f56;
+  border-bottom-color: #badc58;
 }
-
 .service-details-inner h2,
 .header .nav li .dropdown {
-  border-left-color: #f82f56;
+  border-left-color: #badc58;
 }
-
 .accordion li a.active,
 .departments .department-tab .nav li a.active,
 .login .login-form .checkbox label::before,
@@ -194,13 +188,11 @@ textarea:focus,
 select:focus,
 .rtl-version .option-box li,
 .rtl .service-details-inner h2 {
-  border-color: #f82f56 !important;
+  border-color: #badc58 !important;
 }
-
 .preloader .loader .indicator svg polyline#front {
-  stroke: #f82f56;
+  stroke: #badc58;
 }
-
 /* custom footer start */
 
 footer.site-footer {
@@ -208,7 +200,7 @@ footer.site-footer {
   color: #ffffff;
   background:
     radial-gradient(800px 600px at 55% 3%, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0) 60%),
-    linear-gradient(135deg, #f82f56 0%, #f82f56 100%);
+    linear-gradient(135deg, #badc58 0%, #badc58 100%);
   overflow: hidden;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }

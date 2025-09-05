@@ -1,3 +1,45 @@
+/* custom css start */
+.cta-title,
+.spec-title,
+.spec-icon i {
+  color: #32b87d !important;
+}
+
+.icon-circle {
+  background: #32b87d !important;
+}
+
+.pkg-link {
+  color: #32b87d !important;
+}
+
+.cta-card:hover {
+  background: #32b87d !important;
+  box-shadow: 0 10px 20px #32b87d;
+}
+
+.cta-card:hover .icon-circle i {
+  color: #32b87d !important;
+}
+
+.cta-card:hover .icon-circle {
+  background: #fff !important;
+}
+
+.cta-card:hover .icon-circle i {
+  color: #32b87d !important;
+}
+
+.cta-card:hover .cta-title {
+  color: #fff !important;
+}
+
+.spec-card:hover {
+  background: #32b87d !important;
+}
+
+/* custom css end */
+
 .doctor-details-item .doctor-details-contact .basic-info li i,
 .doctor-details-item .doctor-details-biography h3,
 .header .top-link li:hover a,
@@ -50,6 +92,7 @@
 .rtl-version .option-box li {
   color: #32b87d;
 }
+
 .accordion li a.active,
 #scrollUp,
 .team .t-icon a,
@@ -123,16 +166,20 @@
 .rtl-version .option-box li:hover {
   background: #32b87d;
 }
+
 .accordion a:hover {
   background: #32b87d !important;
 }
+
 .Feautes .single-features::before {
   border-bottom-color: #32b87d;
 }
+
 .service-details-inner h2,
 .header .nav li .dropdown {
   border-left-color: #32b87d;
 }
+
 .accordion li a.active,
 .departments .department-tab .nav li a.active,
 .login .login-form .checkbox label::before,
@@ -145,9 +192,24 @@ input:focus,
 textarea:focus,
 .nice-select:focus,
 select:focus,
-.rtl-version .option-box li ,.rtl .service-details-inner h2{
+.rtl-version .option-box li,
+.rtl .service-details-inner h2 {
   border-color: #32b87d !important;
 }
+
 .preloader .loader .indicator svg polyline#front {
   stroke: #32b87d;
 }
+/* custom footer start */
+
+footer.site-footer {
+  position: relative;
+  color: #ffffff;
+  background:
+    radial-gradient(800px 600px at 55% 3%, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0) 60%),
+    linear-gradient(135deg, #32b87d 0%, #32b87d 100%);
+  overflow: hidden;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* custom footer end */

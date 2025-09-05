@@ -209,7 +209,7 @@
 
     <!-- Start service -->
     <section class="services section">
-    <div class="container wow fadeInLeft" data-wow-delay="0.3s">
+    <div class="container wow fadeInLeft" data-wow-delay="0.4s">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title">
@@ -349,7 +349,7 @@
 
     <!-- Start Ambulance Service -->
     <section class="portfolio section service-highlight-section">
-    <div class="container wow fadeInRight" data-wow-delay="0.4s">
+    <div class="container wow fadeInRight" data-wow-delay="0.5s">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title">
@@ -399,7 +399,7 @@
 
     <!-- Start Sample Collection Service -->
     <section class="portfolio section service-highlight-section">
-    <div class="container wow fadeInRight" data-wow-delay="0.4s">
+    <div class="container wow fadeInRight" data-wow-delay="0.6s">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title">
@@ -424,7 +424,7 @@
 
     <!-- Start Health Checkup Packages -->
     <section class="portfolio section">
-    <div class="container wow fadeInUp" data-wow-delay="0.2s">
+        <div class="container wow fadeInUp" data-wow-delay="0.2s">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title">
@@ -434,7 +434,7 @@
                 </div>
             </div>
         </div>
-        <div class="container">
+        <div class="container wow fadeInUp" data-wow-delay="0.3s">
             <div class="row">
                 <div class="col-lg-12 col-12">
                     <div class="packages owl-carousel package-slider">
@@ -513,7 +513,7 @@
 
     <!-- Start Patient & Their Stories Area -->
     <section class="blog section" id="blog">
-    <div class="container wow fadeInLeft" data-wow-delay="0.3s">
+        <div class="container wow fadeInLeft" data-wow-delay="0.3s">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title">

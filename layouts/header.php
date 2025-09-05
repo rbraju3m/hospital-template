@@ -87,7 +87,7 @@
                         <!-- Start Logo -->
                         <div class="logo text-center">
                             <a href="index.php"><img src="img/logo.png" alt="#"
-                                    style="width: 84px; height: 44px;" /></a>
+                                    style="width: 55px; height: 44px;" /></a>
                             <p>Uttara Crescent Hospital</p>
                             <p>উত্তরা ক্রিসেন্ট হাসপাতাল</p>
                         </div>

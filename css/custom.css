@@ -66,7 +66,6 @@
     margin: 0;
     letter-spacing: .03em;
     font-weight: 700;
-    color: #32b87d;
     text-transform: uppercase;
     font-size: 1rem;
     white-space: normal;
@@ -79,7 +78,6 @@
     width: 48px;
     height: 48px;
     border-radius: 50%;
-    background: #32b87d;
     color: #fff;
     display: grid;
     place-items: center;
@@ -92,21 +90,7 @@
 
 .cta-card:hover {
     transform: translateY(-4px);
-    box-shadow: 0 10px 20px #32b87d;
     transition: transform .15s ease, box-shadow .15s ease;
-    background: #32b87d;
-}
-
-.cta-card:hover .icon-circle {
-    background: #fff;
-}
-
-.cta-card:hover .icon-circle i {
-    color: #32b87d;
-}
-
-.cta-card:hover .cta-title {
-    color: #fff;
 }
 
 /* service card after slider area  */
@@ -137,16 +121,15 @@
 }
 
 .spec-card:hover .spec-icon i {
-    color: #fff;
+    color: #fff !important;
 }
 
 .spec-card:hover .spec-title {
-    color: #fff;
+    color: #fff !important;
 }
 
 .spec-icon i {
     font-size: 40px;
-    color: #32b87d;
     line-height: 1;
     display: block;
 }
@@ -241,7 +224,6 @@
 }
 
 .pkg-link {
-    color: #52c7da;
     font-weight: 700;
     text-decoration: none;
 }
@@ -473,8 +455,8 @@ footer.site-footer {
     position: relative;
     color: #ffffff;
     background:
-            radial-gradient(800px 600px at 55% 3%, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0) 60%),
-            linear-gradient(135deg, #32b87d 0%, #2ca46e 100%);
+        radial-gradient(800px 600px at 55% 3%, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0) 60%),
+        linear-gradient(135deg, #32b87d 0%, #2ca46e 100%);
     overflow: hidden;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -503,7 +485,8 @@ footer.site-footer::after {
 }
 
 .footer-bottom {
-    padding: 20px 0 80px; /* extended bottom for arc visibility */
+    padding: 20px 0 80px;
+    /* extended bottom for arc visibility */
     position: relative;
     z-index: 1;
 }
@@ -655,4 +638,3 @@ footer.site-footer::after {
         margin-right: 0.6rem;
     }
 }
-

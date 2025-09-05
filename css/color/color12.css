@@ -1,3 +1,44 @@
+/* custom css start */
+.cta-title,
+.spec-title,
+.spec-icon i {
+  color: #44ce6f !important;
+}
+
+.icon-circle {
+  background: #44ce6f !important;
+}
+
+.pkg-link {
+  color: #44ce6f !important;
+}
+
+.cta-card:hover {
+  background: #44ce6f !important;
+  box-shadow: 0 10px 20px #44ce6f;
+}
+
+.cta-card:hover .icon-circle i {
+  color: #44ce6f !important;
+}
+
+.cta-card:hover .icon-circle {
+  background: #fff !important;
+}
+
+.cta-card:hover .icon-circle i {
+  color: #44ce6f !important;
+}
+
+.cta-card:hover .cta-title {
+  color: #fff !important;
+}
+
+.spec-card:hover {
+  background: #44ce6f !important;
+}
+
+/* custom css end */
 .doctor-details-item .doctor-details-contact .basic-info li i,
 .doctor-details-item .doctor-details-biography h3,
 .header .top-link li:hover a,
@@ -152,3 +193,16 @@ select:focus,
 .preloader .loader .indicator svg polyline#front {
   stroke: #44ce6f;
 }
+/* custom footer start */
+
+footer.site-footer {
+  position: relative;
+  color: #ffffff;
+  background:
+    radial-gradient(800px 600px at 55% 3%, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0) 60%),
+    linear-gradient(135deg, #44ce6f 0%, #44ce6f 100%);
+  overflow: hidden;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* custom footer end */
